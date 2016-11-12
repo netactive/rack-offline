@@ -2,8 +2,8 @@ GEM
   remote: http://rubygems.org/
   specs:
     diff-lcs (1.1.2)
-    rack (1.1.0)
-    rack-test (0.5.4)
+    rack (2.0.1)
+    rack-test (0.6.3)
       rack (>= 1.0)
     rspec (2.0.0.beta.9)
       rspec-core (= 2.0.0.beta.9)
@@ -20,3 +20,6 @@ PLATFORMS
 DEPENDENCIES
   rack-test
   rspec (~> 2.0.0.beta.4)
+
+BUNDLED WITH
+   1.13.6
